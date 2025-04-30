@@ -66,11 +66,11 @@ function deleteTask(id) {
 function priorityStyle(priority) {
   switch (priority) {
     case 'High':
-      return 'border-left: 5px solid red;';
+      return 'border-left: 10px solid red;';
     case 'Medium':
-      return 'border-left: 5px solid orange;';
+      return 'border-left: 10px solid yellow;';
     case 'Low':
-      return 'border-left: 5px solid green;';
+      return 'border-left: 10px solid green;';
     default:
       return '';
   }
