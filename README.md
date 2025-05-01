@@ -1,2 +1,2 @@
-## Final Project Relfection
-My main approach to this project was trying to get as much done as I could within the first two days and hope that everything works.
+## Final Project Reflection
+My main approach to this project was trying to get as much done as I could within the first two days and pray that everything just kind of ends up working. That didn't really go as well as I thought it would, I didn't get **much** done the first day, however after rlection and coming in with a game plan day two was when I knew that I woud basically be done or want to be done with it. The main challenge was trying to make everything look decent and not like I just put everything together and called it a day, since how the UI looks and works is an important aspect of the project **(as in for a grade)**. The main take away is that this was a little bit easier than the mid-term
